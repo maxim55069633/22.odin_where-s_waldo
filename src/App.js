@@ -1,23 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import addExampleData from './Components/addExampleData';
+import ReadDocument from "./Components/ReadDocument";
+
+
+import Timer from "./Components/Timer";
+import GameMap from "./Components/GameMap";
 
 function App() {
+
+
+  addExampleData();
+  ReadDocument();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Find the Leonard</h1>
+      <p>Leonard is the turtle depicted as wearing a blue bandanna, his signature weapons are two swords.</p>
+      <Timer/>
+      <GameMap/>
     </div>
   );
 }
