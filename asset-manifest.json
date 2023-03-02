@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/22_odin_where-s_waldo/static/css/main.6b937514.css",
+    "main.js": "/22_odin_where-s_waldo/static/js/main.26cc5db3.js",
+    "static/media/TMNT.png": "/22_odin_where-s_waldo/static/media/TMNT.02f164f7f8fa6a14716e.png",
+    "index.html": "/22_odin_where-s_waldo/index.html",
+    "main.6b937514.css.map": "/22_odin_where-s_waldo/static/css/main.6b937514.css.map",
+    "main.26cc5db3.js.map": "/22_odin_where-s_waldo/static/js/main.26cc5db3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b937514.css",
+    "static/js/main.26cc5db3.js"
+  ]
+}
