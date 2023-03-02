@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b937514.css",
+    "main.js": "/static/js/main.670994d9.js",
+    "static/media/TMNT.png": "/static/media/TMNT.02f164f7f8fa6a14716e.png",
+    "index.html": "/index.html",
+    "main.6b937514.css.map": "/static/css/main.6b937514.css.map",
+    "main.670994d9.js.map": "/static/js/main.670994d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b937514.css",
+    "static/js/main.670994d9.js"
+  ]
+}
