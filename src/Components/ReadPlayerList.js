@@ -7,7 +7,7 @@ import { nanoid } from "nanoid";
 
 const ReadPlayerList =  ()=>{
 
-    const [content, setContent] = useState("Loading top players...");
+    const [content, setContent] = useState("Nobody has played this game yet. Be the first one!");
     const playersRef = collection(db, "players");
    
     const [final_user_list, setFinal_user_list] = useState([]);
@@ -79,6 +79,7 @@ const ReadPlayerList =  ()=>{
     }
 
     return <div>{content}</div>;
+   
 }
 
 export default ReadPlayerList;

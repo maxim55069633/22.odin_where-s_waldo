@@ -7,7 +7,7 @@ const PlayerRef = collection(db, "players");
 const submitUser =  async (player_name,time_diff) =>{
     await setDoc(doc(PlayerRef, `player-${nanoid()}`), {
         name: player_name, 
-        used_time: time_diff
+        used_time: Number(time_diff)
        });
 }
 
