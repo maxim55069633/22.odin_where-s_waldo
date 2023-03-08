@@ -1,7 +1,7 @@
 {
-  "name": "22_odin_where-s_waldo",
+  "name": "22.odin_where-s_waldo",
   "version": "0.1.0",
-  "homepage": "https://maxim55069633.github.io/22_odin_where-s_waldo",
+  "homepage": "https://maxim55069633.github.io/22.odin_where-s_waldo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -9,7 +9,6 @@
     "@testing-library/user-event": "^13.5.0",
     "env-cmd": "^10.1.0",
     "firebase": "^9.17.1",
-    "gh-pages": "^5.0.0",
     "nanoid": "^4.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -42,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
