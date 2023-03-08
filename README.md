@@ -2,7 +2,7 @@
 
 [Task Description](https://www.theodinproject.com/lessons/node-path-javascript-where-s-waldo-a-photo-tagging-app)
 
-[Live Preview](https://maxim55069633.github.io/22_odin_where-s_waldo/)
+[Live Preview](https://maxim55069633.github.io/22.odin_where-s_waldo/)
 
 In this project, I combine Firebase backend services with my frontend functionality. I practice how to add, read, delete data in Firestore Database. 
 
