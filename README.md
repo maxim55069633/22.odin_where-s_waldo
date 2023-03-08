@@ -1,4 +1,4 @@
-# 22_odin_where-s_waldo
+# 22.odin_where-s_waldo
 
 [Task Description](https://www.theodinproject.com/lessons/node-path-javascript-where-s-waldo-a-photo-tagging-app)
 
